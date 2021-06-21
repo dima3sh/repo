@@ -6,6 +6,7 @@ Thumbs.db
 *.exe
 *.pdb
 *.user
+*.iml
 *.aps
 *.pch
 *.vspscc
