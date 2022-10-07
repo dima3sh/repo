@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T13:52:12.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Iw9E-P9vuuSIUyET-jeC" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T15:41:24.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LWVxXirmDtMqErELcymu" version="20.4.0" type="github">
   <diagram id="UjfAyTmwoN08glMjMU2W" name="Page-1">
-    <mxGraphModel dx="1896" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,9 +442,9 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;font-size: 17px;&quot;&gt;Получение истории из разных источников&lt;/span&gt;" lucidchartObjectId="lq6X5e~di5K2" id="c8gqJFBUCQKYiurZhm5t-94">
+        <UserObject label="&lt;span style=&quot;font-size: 17px;&quot;&gt;Получение истории из разных источников&lt;br&gt;(findHistory)&lt;/span&gt;" lucidchartObjectId="lq6X5e~di5K2" id="c8gqJFBUCQKYiurZhm5t-94">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="520" y="1580" width="138" height="90" as="geometry" />
+            <mxGeometry x="520" y="1565" width="138" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="c8gqJFBUCQKYiurZhm5t-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c8gqJFBUCQKYiurZhm5t-85" target="c8gqJFBUCQKYiurZhm5t-94">
@@ -457,15 +457,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;span style=&quot;font-size: 17px;&quot;&gt;WSO&lt;/span&gt;" lucidchartObjectId="lq6X5e~di5K2" id="c8gqJFBUCQKYiurZhm5t-106">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="770" y="1580" width="138" height="90" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="c8gqJFBUCQKYiurZhm5t-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8gqJFBUCQKYiurZhm5t-94" target="c8gqJFBUCQKYiurZhm5t-106">
+        <mxCell id="c8gqJFBUCQKYiurZhm5t-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8gqJFBUCQKYiurZhm5t-94" target="c8gqJFBUCQKYiurZhm5t-117">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="732" y="1729.78" as="sourcePoint" />
-            <mxPoint x="832" y="1729.78" as="targetPoint" />
+            <mxPoint x="770" y="1625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c8gqJFBUCQKYiurZhm5t-108" value="WSO" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="c8gqJFBUCQKYiurZhm5t-107">
@@ -493,6 +488,42 @@
             <mxGeometry x="770" y="2820" width="138" height="90" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="В запросе указаны конкретные счета?" lucidchartObjectId="mc6X3-lLS0_n" id="c8gqJFBUCQKYiurZhm5t-117">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=13.3;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="764" y="1572.5" width="150" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="Bd6XbcjyhPsX" id="c8gqJFBUCQKYiurZhm5t-118">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8gqJFBUCQKYiurZhm5t-117" target="c8gqJFBUCQKYiurZhm5t-121">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="998" y="1610.0100000000002" as="sourcePoint" />
+              <mxPoint x="1000" y="1625" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="c8gqJFBUCQKYiurZhm5t-119" value="Yes" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" vertex="1" parent="c8gqJFBUCQKYiurZhm5t-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8gqJFBUCQKYiurZhm5t-121" value="Получение истории по счетам" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="908" y="1649" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Stored Data" lucidchartObjectId="GZ5X~4STbWsD" id="c8gqJFBUCQKYiurZhm5t-123">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=cylinder3;boundedLbl=1;size=15;lid=0;direction=south;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1380" y="1655" width="120" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="c8gqJFBUCQKYiurZhm5t-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c8gqJFBUCQKYiurZhm5t-121" target="c8gqJFBUCQKYiurZhm5t-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="1640" as="sourcePoint" />
+            <mxPoint x="1210" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c8gqJFBUCQKYiurZhm5t-132" value="GET /history/account/{number}" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="c8gqJFBUCQKYiurZhm5t-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-44" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
