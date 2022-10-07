@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T13:24:03.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VfXtLmKtvw58ob2dAIdj" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T13:25:08.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RQiR0gAXNRSRN9zx64K5" version="20.4.0" type="github">
   <diagram id="UjfAyTmwoN08glMjMU2W" name="Page-1">
-    <mxGraphModel dx="677" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,7 +204,7 @@
         </UserObject>
         <UserObject label="Process" lucidchartObjectId="c45XLEYe~mZt" id="c8gqJFBUCQKYiurZhm5t-48">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="540" y="1485" width="120" height="90" as="geometry" />
+            <mxGeometry x="560" y="1590" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Поиск токена в бд. " lucidchartObjectId="Y75XstdN9JBE" id="c8gqJFBUCQKYiurZhm5t-49">
