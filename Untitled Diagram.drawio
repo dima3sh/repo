@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T13:23:34.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Hv2pV8urkCPGA2PGvVdd" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T13:24:03.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VfXtLmKtvw58ob2dAIdj" version="20.4.0" type="github">
   <diagram id="UjfAyTmwoN08glMjMU2W" name="Page-1">
-    <mxGraphModel dx="1422" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,7 +406,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Сервис обогащения карт наименованиями" lucidchartObjectId="Nj6XIc4ePQxS" id="c8gqJFBUCQKYiurZhm5t-82">
+        <UserObject label="Сервис обогащения счетов наименованиями" lucidchartObjectId="Nj6XIc4ePQxS" id="c8gqJFBUCQKYiurZhm5t-82">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="822" y="1330" width="139" height="75" as="geometry" />
           </mxCell>
@@ -423,7 +423,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Сервис обогащения карт конфигурацией видимостей" lucidchartObjectId="lq6X5e~di5K2" id="c8gqJFBUCQKYiurZhm5t-85">
+        <UserObject label="Сервис обогащения счетов конфигурацией видимостей" lucidchartObjectId="lq6X5e~di5K2" id="c8gqJFBUCQKYiurZhm5t-85">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="821" y="1420.5" width="138" height="90" as="geometry" />
           </mxCell>
