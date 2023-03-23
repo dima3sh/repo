@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T14:52:44.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DK8RqTWhpuDxcQ7UIjDw" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T07:21:14.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UdyjvkWYMByLhltIqTs3" version="21.0.8" type="github">
   <diagram id="TdcTRFdXPKHcd5zqCikp" name="Page-1">
-    <mxGraphModel dx="4909" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4647" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,16 +340,10 @@
           <mxGeometry x="-2640" y="902.53" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Удалить товары из корзины&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-2420" y="1052.53" width="200" height="20" as="geometry" />
+          <mxGeometry x="-2420" y="972.53" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Изменить товары&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Валидация ввода&lt;br&gt;exit / Применение изменений&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-2640" y="982.53" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Kw9__kutnGEFumvWiqR3-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Создать группу товаров&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / Вывод истории&lt;br&gt;do / Обновление истории&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="-2420" y="892.53" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Kw9__kutnGEFumvWiqR3-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Изменить группу товаров&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Валидация ввода&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;exit / Применение изменений&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-2420" y="972.53" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-13" value="" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-2010" y="1340" width="40" height="40" as="geometry" />
@@ -471,7 +465,7 @@
           <mxGeometry x="320" y="555" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-59" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Удалить группу товаров&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-2640" y="1062.53" width="200" height="20" as="geometry" />
+          <mxGeometry x="-2640" y="982.53" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
