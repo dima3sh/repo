@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T20:45:25.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="oF134_3Wp6uc9W6JJD-S" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T20:53:18.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="9dttHVTP0DL41Wmgfuhq" version="21.1.1" type="github">
   <diagram id="TdcTRFdXPKHcd5zqCikp" name="Page-1">
-    <mxGraphModel dx="8685" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6534" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -413,7 +413,7 @@
             <mxPoint x="-1920" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kw9__kutnGEFumvWiqR3-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Просмотр пользовательских шаблонов&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Отображение пользовательских шаблонов&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Удление шаблонов&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+        <mxCell id="Kw9__kutnGEFumvWiqR3-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Просмотр пользовательских шаблонов&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Отображение пользовательских шаблонов&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Удаление шаблонов&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-1765" y="930" width="200" height="102.53" as="geometry" />
         </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Kw9__kutnGEFumvWiqR3-19" target="Kw9__kutnGEFumvWiqR3-17" edge="1">
@@ -1201,7 +1201,7 @@
         <mxCell id="k28_8GWcvLkQVrRJRihw-127" value="&amp;lt;&amp;lt;Вернуться в личный кабинет&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-3399.998275862069" y="442.5" as="geometry" />
         </mxCell>
-        <mxCell id="PlF_Vn7k2cVSZqiHre4j-1" value="&lt;div align=&quot;left&quot;&gt;do / Удалить товары из корзины&lt;br&gt;do /&amp;nbsp; удалить пользователя&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PlF_Vn7k2cVSZqiHre4j-1" value="&lt;div align=&quot;left&quot;&gt;do / Удалить товары из корзины&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2445" y="680" width="235" height="30" as="geometry" />
         </mxCell>
       </root>
