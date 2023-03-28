@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T15:56:09.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NsgZcNuurXWUvjpwHf1O" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T20:45:25.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="oF134_3Wp6uc9W6JJD-S" version="21.1.1" type="github">
   <diagram id="TdcTRFdXPKHcd5zqCikp" name="Page-1">
-    <mxGraphModel dx="7069" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8685" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,7 +333,7 @@
           <mxGeometry x="-2455" y="650" width="450" height="228.74" as="geometry" />
         </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Просмотр списка покупок&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / Вывод истории&lt;br&gt;do / Обновление истории&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2445" y="710" width="200" height="70" as="geometry" />
+          <mxGeometry x="-2445" y="720" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k28_8GWcvLkQVrRJRihw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Kw9__kutnGEFumvWiqR3-4" target="k28_8GWcvLkQVrRJRihw-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -353,17 +353,11 @@
         <mxCell id="Kw9__kutnGEFumvWiqR3-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Добавление участников корзин&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exit / Добавление участника&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-2350" y="1142.53" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kw9__kutnGEFumvWiqR3-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Удалить корзину&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2445" y="680" width="200" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Добавить товары в корзину&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Валидация ввода&lt;br&gt;exit / Добавление товара&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2445" y="790" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Kw9__kutnGEFumvWiqR3-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Удалить товары из корзины&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2217.5" y="760" width="200" height="20" as="geometry" />
+          <mxGeometry x="-2445" y="800" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Изменить товары&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Валидация ввода&lt;br&gt;exit / Применение изменений&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2217.5" y="680" width="200" height="70" as="geometry" />
+          <mxGeometry x="-2225" y="750" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kw9__kutnGEFumvWiqR3-13" value="" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-2010" y="1270" width="40" height="40" as="geometry" />
@@ -1015,11 +1009,11 @@
             <mxPoint x="-3" y="-58" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k28_8GWcvLkQVrRJRihw-75" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Работа с корзиной&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+        <mxCell id="k28_8GWcvLkQVrRJRihw-75" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Работа с корзиной&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Удалить товары из корзины&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-4410" y="488.13" width="450" height="228.74" as="geometry" />
         </mxCell>
         <mxCell id="k28_8GWcvLkQVrRJRihw-76" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Просмотр списка покупок&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / Вывод истории&lt;br&gt;do / Обновление истории&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-4400" y="528.13" width="200" height="70" as="geometry" />
+          <mxGeometry x="-4182.5" y="583.39" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k28_8GWcvLkQVrRJRihw-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k28_8GWcvLkQVrRJRihw-79" target="k28_8GWcvLkQVrRJRihw-126" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1038,13 +1032,10 @@
           <mxGeometry x="-4382.5" y="1018.46" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k28_8GWcvLkQVrRJRihw-84" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Добавить товары в корзину&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Валидация ввода&lt;br&gt;exit / Добавление товара&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-4400" y="608.13" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="k28_8GWcvLkQVrRJRihw-85" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Удалить товары из корзины&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-4172.5" y="598.13" width="200" height="20" as="geometry" />
+          <mxGeometry x="-4400" y="630" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k28_8GWcvLkQVrRJRihw-86" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Изменить товары&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;do / Валидация ввода&lt;br&gt;exit / Применение изменений&lt;br&gt;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-4172.5" y="518.13" width="200" height="70" as="geometry" />
+          <mxGeometry x="-4400" y="550" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k28_8GWcvLkQVrRJRihw-87" value="" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-3960" y="1180" width="40" height="40" as="geometry" />
@@ -1209,6 +1200,9 @@
         </mxCell>
         <mxCell id="k28_8GWcvLkQVrRJRihw-127" value="&amp;lt;&amp;lt;Вернуться в личный кабинет&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-3399.998275862069" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PlF_Vn7k2cVSZqiHre4j-1" value="&lt;div align=&quot;left&quot;&gt;do / Удалить товары из корзины&lt;br&gt;do /&amp;nbsp; удалить пользователя&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2445" y="680" width="235" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
