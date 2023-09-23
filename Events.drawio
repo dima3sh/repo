@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T11:45:19.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="YLHoWw5rUs2VHiRPxmJ6" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T12:36:20.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="ic1maE6y1e0b601OBPcS" version="21.7.4" type="github">
   <diagram name="Страница 1" id="cRjUhBLCW10yVQFY3db3">
-    <mxGraphModel dx="6244" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5606" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -533,7 +533,7 @@
           <mxGeometry x="-2300" y="1170" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ObvfdJfhDbeIIYqRZE_-34" value="Очиститель кеша" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-2850" y="1150" width="320" height="120" as="geometry" />
+          <mxGeometry x="-2850" y="1150" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3ObvfdJfhDbeIIYqRZE_-33" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=eventNonint;symbol=timer;" vertex="1" parent="3ObvfdJfhDbeIIYqRZE_-34">
           <mxGeometry x="40" y="30" width="50" height="50" as="geometry" />
@@ -548,6 +548,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="220" y="-165" as="sourcePoint" />
             <mxPoint x="350" y="-165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ObvfdJfhDbeIIYqRZE_-67" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="3ObvfdJfhDbeIIYqRZE_-34">
+          <mxGeometry x="310" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3ObvfdJfhDbeIIYqRZE_-68" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3ObvfdJfhDbeIIYqRZE_-34" source="3ObvfdJfhDbeIIYqRZE_-36" target="3ObvfdJfhDbeIIYqRZE_-67">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="94.13000000000011" as="sourcePoint" />
+            <mxPoint x="320" y="94.13000000000011" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ObvfdJfhDbeIIYqRZE_-38" value="" style="endArrow=open;dashed=1;html=1;dashPattern=1 4;strokeWidth=1;rounded=1;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="3ObvfdJfhDbeIIYqRZE_-36" target="3ObvfdJfhDbeIIYqRZE_-23">
