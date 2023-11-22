@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T15:59:26.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="b-bcqvirTbNBEtlarhlI" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T16:05:57.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XYLYBPR-d59XtBxPc5H3" version="22.1.3" type="github">
   <diagram name="Страница 1" id="cRjUhBLCW10yVQFY3db3">
     <mxGraphModel dx="4834" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry y="208" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vpUIqSmqtUPaj6e8z2Zy-17" value="EventMedia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#A9C4EB;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="190" width="140" height="104" as="geometry" />
+          <mxGeometry x="-390" y="190" width="140" height="156" as="geometry" />
         </mxCell>
         <mxCell id="vpUIqSmqtUPaj6e8z2Zy-52" value="eventMediaId: UUID" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vpUIqSmqtUPaj6e8z2Zy-17" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -76,8 +76,14 @@
         <mxCell id="vpUIqSmqtUPaj6e8z2Zy-53" value="eventId: UUID" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vpUIqSmqtUPaj6e8z2Zy-17" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="vpUIqSmqtUPaj6e8z2Zy-18" value="extension: String" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vpUIqSmqtUPaj6e8z2Zy-17" vertex="1">
+        <mxCell id="NgDDJWwpGHNOBmChydb1-31" value="mediaType: String" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="vpUIqSmqtUPaj6e8z2Zy-17">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NgDDJWwpGHNOBmChydb1-33" value="bucket: String" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="vpUIqSmqtUPaj6e8z2Zy-17">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUIqSmqtUPaj6e8z2Zy-18" value="extension: String" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vpUIqSmqtUPaj6e8z2Zy-17" vertex="1">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vpUIqSmqtUPaj6e8z2Zy-25" value="Chat" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#A9C4EB;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="650" width="140" height="78" as="geometry" />
@@ -855,7 +861,7 @@
             <mxPoint x="-1760" y="1956" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="80fhiYl1MLd-mTjG4RnU-1" value="Unread_message" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#A9C4EB;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="80fhiYl1MLd-mTjG4RnU-1" value="unreadMessage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#A9C4EB;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="740" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="80fhiYl1MLd-mTjG4RnU-3" value="userId: UUID" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="80fhiYl1MLd-mTjG4RnU-1" vertex="1">
@@ -966,6 +972,9 @@
         </mxCell>
         <mxCell id="NgDDJWwpGHNOBmChydb1-19" value="role: String" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="NgDDJWwpGHNOBmChydb1-17">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NgDDJWwpGHNOBmChydb1-32" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;eventmediaId.extension&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="68" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
