@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T09:28:48.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Wjta4--MauJbTiB1Meka" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T09:29:30.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dO1NJJtiBf-99zcFgmx6" version="23.0.2" type="github">
   <diagram name="Страница 1" id="cRjUhBLCW10yVQFY3db3">
-    <mxGraphModel dx="4580" dy="171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6299" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2523,13 +2523,13 @@
         <mxCell id="GxuwwfpZu1i7dWU95O59-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GxuwwfpZu1i7dWU95O59-40" target="GxuwwfpZu1i7dWU95O59-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GxuwwfpZu1i7dWU95O59-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Создание корзины&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GxuwwfpZu1i7dWU95O59-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Создание мероприятия&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2642.5" y="4319.969999999999" width="115" height="32.53" as="geometry" />
         </mxCell>
         <mxCell id="GxuwwfpZu1i7dWU95O59-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GxuwwfpZu1i7dWU95O59-42" target="GxuwwfpZu1i7dWU95O59-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GxuwwfpZu1i7dWU95O59-42" value="Выбор корзины" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="GxuwwfpZu1i7dWU95O59-42" value="Выбор мероприятия" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-2900" y="4226.24" width="115" height="32.53" as="geometry" />
         </mxCell>
         <mxCell id="GxuwwfpZu1i7dWU95O59-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GxuwwfpZu1i7dWU95O59-44" target="GxuwwfpZu1i7dWU95O59-47">
