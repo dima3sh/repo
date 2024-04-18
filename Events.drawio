@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T21:20:06.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="5mqat-SqVpcvWLI9rcnx" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T21:21:00.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="AyZr9THD-T0xD-KwC_14" version="24.2.5" type="github">
   <diagram name="Страница 1" id="cRjUhBLCW10yVQFY3db3">
     <mxGraphModel dx="7389" dy="520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QEvUMmzugOgcv5S0MMZ-1" value="creater_id: UUID" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="vpUIqSmqtUPaj6e8z2Zy-1">
+        <mxCell id="5QEvUMmzugOgcv5S0MMZ-1" value="owner_id: UUID" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="vpUIqSmqtUPaj6e8z2Zy-1">
           <mxGeometry y="234" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vpUIqSmqtUPaj6e8z2Zy-15" value="locationId; UUID" style="text;strokeColor=none;fillColor=#D4E1F5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vpUIqSmqtUPaj6e8z2Zy-1" vertex="1">
