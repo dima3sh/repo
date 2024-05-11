@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T12:58:11.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WyciX0ZD0KWSqJviBJZC" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-11T13:08:08.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2ZK6_Kn0WNypD7B1yhsm" version="24.3.1" type="github">
   <diagram name="Страница 1" id="cRjUhBLCW10yVQFY3db3">
     <mxGraphModel dx="7219" dy="426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5982,9 +5982,6 @@
         <mxCell id="1668ONOZUbINZDyE87w6-231" value="Рассылка сообщения участникам чата через WebSocket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4958.5020689655175" y="7172.001724137931" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1668ONOZUbINZDyE87w6-233" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="-4578" y="7518.999999999999" width="31" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="1668ONOZUbINZDyE87w6-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1668ONOZUbINZDyE87w6-237" target="1668ONOZUbINZDyE87w6-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -6028,14 +6025,6 @@
         <mxCell id="1668ONOZUbINZDyE87w6-243" value="Поиск пользователя" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5026" y="7499.5" width="142" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="1668ONOZUbINZDyE87w6-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1668ONOZUbINZDyE87w6-246" target="1668ONOZUbINZDyE87w6-233">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1668ONOZUbINZDyE87w6-245" value="&lt;span style=&quot;font-size: 14px; text-wrap: wrap;&quot;&gt;&amp;lt;&amp;lt;Завершение работы&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1668ONOZUbINZDyE87w6-244">
-          <mxGeometry x="-0.1934" y="-1" relative="1" as="geometry">
-            <mxPoint x="14" y="-20" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1668ONOZUbINZDyE87w6-246" value="Гинерация сообщения об ошибке" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4798" y="7509" width="120" height="50" as="geometry" />
         </mxCell>
@@ -6066,8 +6055,19 @@
             <mxPoint x="12" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1668ONOZUbINZDyE87w6-259" value="Генерация идентификатора дя файла, сохранение файла в MinIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1668ONOZUbINZDyE87w6-259" value="Генерация идентификатора для файла, сохранение файла в MinIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5133.0020689655175" y="7589.001724137931" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1668ONOZUbINZDyE87w6-233" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="-4578" y="7518.999999999999" width="31" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1668ONOZUbINZDyE87w6-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1668ONOZUbINZDyE87w6-246" target="1668ONOZUbINZDyE87w6-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1668ONOZUbINZDyE87w6-245" value="&lt;span style=&quot;font-size: 14px; text-wrap: wrap;&quot;&gt;&amp;lt;&amp;lt;Завершение работы&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1668ONOZUbINZDyE87w6-244">
+          <mxGeometry x="-0.1934" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="-23" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
