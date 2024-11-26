@@ -126,8 +126,8 @@
         <mxCell id="O0Aovz_mTmCYk-A1HjLB-37" value="Добавить возможность уведомлений себе от бота и на почту" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="590" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8uz7izCV6_OdKHJKwMC-1" value="Версия 1. Mini app &lt;br&gt;Календарик" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="510" width="210" height="60" as="geometry" />
+        <mxCell id="Y8uz7izCV6_OdKHJKwMC-1" value="Версия 1. Mini app &lt;br&gt;Календарик" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
