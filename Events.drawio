@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.7">
   <diagram name="Страница 1" id="cRjUhBLCW10yVQFY3db3">
-    <mxGraphModel dx="9456" dy="3287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7501" dy="2203" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6496,7 +6496,7 @@
         <mxCell id="0dv1_vKSlN1RwNKwTld7-103" edge="1" parent="1" source="0dv1_vKSlN1RwNKwTld7-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;startArrow=ERone;startFill=0;jumpStyle=arc;" target="0dv1_vKSlN1RwNKwTld7-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0dv1_vKSlN1RwNKwTld7-104" edge="1" parent="1" source="0dv1_vKSlN1RwNKwTld7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=none;startFill=0;jumpStyle=arc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="0dv1_vKSlN1RwNKwTld7-67">
+        <mxCell id="0dv1_vKSlN1RwNKwTld7-104" edge="1" parent="1" source="0dv1_vKSlN1RwNKwTld7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERone;startFill=0;jumpStyle=arc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="0dv1_vKSlN1RwNKwTld7-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3085.8900000000003" y="2150" />
@@ -6521,7 +6521,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0dv1_vKSlN1RwNKwTld7-106" edge="1" parent="1" source="0dv1_vKSlN1RwNKwTld7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0dv1_vKSlN1RwNKwTld7-37">
+        <mxCell id="0dv1_vKSlN1RwNKwTld7-106" edge="1" parent="1" source="0dv1_vKSlN1RwNKwTld7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" target="0dv1_vKSlN1RwNKwTld7-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
